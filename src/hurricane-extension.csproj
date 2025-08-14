@@ -32,10 +32,10 @@
       <HintPath>..\..\build\extensions\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
 		<Reference Include="Landis.Library.Biomass-v2">
-			<HintPath>..\..\Landis.Library.Biomass-v2.dll</HintPath>
+			<HintPath>..\..\build\extensions\Landis.Library.Biomass-v2.dll</HintPath>
 		</Reference>
 		<Reference Include="Landis.Library.BiomassCohorts-v3">
-			<HintPath>..\..\Landis.Library.BiomassCohorts-v3.dll</HintPath>
+			<HintPath>..\..\build\extensions\Landis.Library.BiomassCohorts-v3.dll</HintPath>
 		</Reference>
   </ItemGroup>
   
