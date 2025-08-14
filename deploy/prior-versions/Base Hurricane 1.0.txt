@@ -1,6 +1,6 @@
 LandisData   Extension
 
-Name         "Base Hurricane"
+Name         "Biomass Hurricane"
 Version      "2.0"
 Type         disturbance:hurricane
 Assembly     Landis.Extension.BiomassHurricane-v2
