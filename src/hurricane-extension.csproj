@@ -29,14 +29,17 @@
   
   <ItemGroup>
     <Reference Include="Landis.Library.Metadata-v2">
-      <HintPath>..\..\build\extensions\Landis.Library.Metadata-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
-		<Reference Include="Landis.Library.Biomass-v2">
-			<HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Biomass-v2.dll</HintPath>
-		</Reference>
-		<Reference Include="Landis.Library.BiomassCohorts-v3">
-			<HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.BiomassCohorts-v3.dll</HintPath>
-		</Reference>
+    <Reference Include="Landis.Library.UniversalCohorts-v1">
+      <HintPath>l..\..\Support-Library-Dlls-v8\Landis.Library.UniversalCohorts-v1.dll</HintPath>
+    </Reference>
+	<Reference Include="Landis.Library.Biomass-v2">
+	  <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Biomass-v2.dll</HintPath>
+	</Reference>
+	<Reference Include="Landis.Library.BiomassCohorts-v3">
+	  <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.BiomassCohorts-v3.dll</HintPath>
+	</Reference>
   </ItemGroup>
   
 </Project>
